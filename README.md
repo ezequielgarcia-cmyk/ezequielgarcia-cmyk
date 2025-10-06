@@ -5,3 +5,5 @@ I really enjoy working with computers and I can see myself in a programming or c
 I have experience in robotics since middle school and joined the computer science UIL in highschool for my senior year. 
 
 My email: ezequiel.garcia04@utrgv.edu
+
+I am learning C++ and i have already learned and practiced java. I am interested in learning python. 
